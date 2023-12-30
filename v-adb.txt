@@ -5,5 +5,7 @@
 ###########################################################################################
 ! left
 mtndew2.serv00.net###lad
+mtndew417.serv00.net###lad
 ! right
 mtndew2.serv00.net###rad
+mtndew417.serv00.net###rad
