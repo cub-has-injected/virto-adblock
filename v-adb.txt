@@ -1,0 +1,9 @@
+###########################################################################################
+! Title: virto! adblock
+! Description: Blocks most ads on virto! website.
+! Homepage: https://github.com/cub-has-injected/virto-adblock/
+###########################################################################################
+! left
+mtndew2.serv00.net###lad
+! right
+mtndew2.serv00.net###rad
